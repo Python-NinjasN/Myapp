@@ -1,5 +1,4 @@
 {
-    "python.pythonPath": "/Users/adnanmac/.local/share/virtualenvs/myapp-GkDXRpNm/bin/python",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
 }
